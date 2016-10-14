@@ -1,0 +1,15 @@
+[
+{
+  "modid": "sjm",
+  "name": "Shadow Jesus' Mod",
+  "description": "Example placeholder mod.",
+  "version": "${1.0}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nick"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
